@@ -1,0 +1,45 @@
+body {
+  outline-style: solid;
+  outline-color:brown;
+  outline-width: 5px;
+  font-family: Arial, sans-serif;
+  margin: 9;
+  padding: 0;
+}
+
+header {
+  background-color: #e71deb;
+  color: #fff;
+  text-align: center;
+  padding: 50px 0;
+}
+
+section {
+
+  padding: 50px 0;
+  text-align: center;
+}
+
+footer {
+  background-color:#e71deb;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+h1, h2 {
+  margin: 0;
+}
+
+p {
+  margin: 10px 0;
+}
